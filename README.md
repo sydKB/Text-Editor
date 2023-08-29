@@ -1,8 +1,8 @@
 # 19 Progressive Web Applications (PWA): Text Editor
 
 ## Deployed Application
-[Click here to got to deployed site](docs.google.com)
-![A screenshot displaying the layout of the application, the database matching what is in th etext editor](./Assets/Deployment.png)
+[Click here to go to deployed site](https://just-another-text-editor-sydkb-a003e52df8bf.herokuapp.com/)
+![A screenshot displaying the layout of the application, the database matching what is in the text editor](./Assets/Deployment.png)
 
 
 ## Your Task
