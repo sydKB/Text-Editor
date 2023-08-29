@@ -1,5 +1,10 @@
 # 19 Progressive Web Applications (PWA): Text Editor
 
+## Deployed Application
+[Click here to got to deployed site](docs.google.com)
+![A screenshot displaying the layout of the application, the database matching what is in th etext editor](./Assets/Deployment.png)
+
+
 ## Your Task
 
 As you have progressed through this course, you have put together a number of impressive projects that you can show off to potential employers. This project is no exception; in fact, it features some of the most impressive expressions of the concepts you have learned so far.
